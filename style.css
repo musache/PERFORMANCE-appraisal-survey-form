@@ -1,0 +1,63 @@
+body{
+    font-family:'Times New Roman', serif;
+    position: relative;
+    text-align: left;
+    background-attachment : fixed;
+    background-image: url("img/image2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+text-align: center;
+}
+
+h5{
+text-align: center;
+}
+
+#survey-form {
+    padding: 24px;
+    width: 50%;
+    margin:0 auto;
+    background-color:sandybrown;
+    color:wheat
+}
+.row-tab {
+    display:block;
+    padding-top: 20px;
+    text-align: left;
+}
+.w-60 {
+    padding: 10px;
+    width: 95%;
+}
+
+
+
+
+ .input-form4 {
+    text-align: left;
+    width:97%;
+    height: 70px;
+
+ }
+ .input-form5 {
+    width: 98%;
+    height: 40px;
+    text-align: center;
+    visibility: visible;
+    position: relative;
+    padding-left: 2%;
+    color: white;
+    background: green;
+    margin-top: 5px;
+ }
+
+ .select-id {
+    width:90%;
+    height: 70px;
+ }
+  
+  
+ 
